@@ -6,6 +6,7 @@ O objetivo principal deste projeto é praticar e demonstrar habilidades em **Jav
 
 🔗 **Acesse o projeto online:**
 👉 **[Clique aqui para visualizar a aplicação](https://devoliveir4.github.io/Refund/)** ---
+![Refund App Screenshot](https://imgur.com/a/q9jxvLS) **🔗 Acesse a demonstração:** **[https://devoliveir4.github.io/Refund/]**
 
 ## 🎯 Objetivos do Projeto
 
